@@ -100,7 +100,7 @@ public class THLogin {
 		
 		/*prints to console Test Successful as have made it to the calendar*/
 		System.out.println("Test Successful");
-		}
+	}
 
 	/*method that generates a random string based on the inputs of character and length above in the method call*/
 	public static String generateRandomChars(String candidateChars, int length) {
